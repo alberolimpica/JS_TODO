@@ -13,3 +13,6 @@ The areas covered with this project are:
 * Functions and methods
 * Array methods
 * DOM manipulation
+
+This page can be viewed in the following URL:
+https://alberolimpica.github.io/JS_TODO/
