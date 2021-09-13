@@ -1,0 +1,28 @@
+body {
+  background: lightskyblue;
+}
+
+.container {
+  max-width: 400px;
+}
+
+/*To get the imputs of type text*/
+input[type="text"],
+input[type="text"]:focus {
+  color: #fff;
+  border: none;
+  background: rgba(255, 255, 255, 0.2);
+  max-width: 400px;
+}
+
+.todos-list li {
+  background: skyblue;
+}
+
+.delete {
+  cursor: pointer;
+}
+
+.filtered {
+  display: none !important;
+}
